@@ -1,2 +1,2 @@
 # KaranProjectsNumbers
-Solution to the Karan Projects 
+Solution to the Karan Projects numbers section
